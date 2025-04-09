@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Meet Patel
 
+![Meet Patel Banner](https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif?cid=790b7611kdstsfxdukjmadzlyw8c2lvhjg5bfhluzw0hb5nv&ep=v1_stickers_search&rid=giphy.gif&ct=s)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-patel-04aa59230/)
 [![Resume](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=google-drive&logoColor=white)](meet-patel-resume.md) 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-2E3A59?style=flat-square&logo=google-chrome&logoColor=white)](https://meetpatell.vercel.app)  
